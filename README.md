@@ -1,7 +1,6 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ6b2FqNm1mN2RjNGt3d2Z4N2p4c2t5b3B2Y2N3cGZ4Z2R0b2RrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
-</p>
+
+![MasterHead](https://i.pinimg.com/originals/00/14/38/0014389ae0ccbd68fd17c8ff040c1cdf.gif)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Satvekar</h1>
 <h3 align="center">A passionate C++ Developer | DSA Enthusiast | Passionate about Payment Industry </h3>
@@ -12,11 +11,9 @@
 
 <img  align="right" alt="Coding" width="300" src="https://iphtechnologies.org/assets/images/web.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvs09&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvs09" /> </p>
-
 ✨ Visitor Counter
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvs09&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvs09" /> </p>
 
 - 💬 Ask me about **C,C++,DSA,Java,MySQL,HTML5,CSS3,JS,BootStrap 5.3**
 
