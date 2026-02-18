@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 
-![MasterHead](https://i.pinimg.com/originals/00/14/38/0014389ae0ccbd68fd17c8ff040c1cdf.gif)
+
 
 <h1 align="center">Hi 👋, I'm Vaibhav Satvekar</h1>
 <h3 align="center">A passionate C++ Developer | DSA Enthusiast | Passionate about Payment Industry </h3>
